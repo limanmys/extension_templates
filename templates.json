@@ -1,0 +1,7 @@
+{
+    "default": "oop-php",
+    "templates": {
+        "pure-php": "PHP 7.3",
+        "oop-php": "PHP 7.3+OOP"
+    }
+}
