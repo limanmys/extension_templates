@@ -1,0 +1,33 @@
+{
+    "name": "<NAME>",
+    "publisher": "<PUBLISHER>",
+    "version": "0.0.1",
+    "version_code": 1,
+    "database": [
+        {
+            "variable": "clientUsername",
+            "type": "text",
+            "name": "Kullanıcı Adı",
+            "required": true
+        },
+        {
+            "variable": "clientPassword",
+            "type": "password",
+            "name": "Şifre",
+            "required": true
+        }
+    ],
+    "widgets": [],
+    "views": [
+        {
+            "name": "index",
+            "scripts": ""
+        }
+    ],
+    "language": "php",
+    "status": 0,
+    "service": "",
+    "supportedLiman": "<SUPPORTED_LIMAN>",
+    "support": "<SUPPORT>",
+    "icon": ""
+}
