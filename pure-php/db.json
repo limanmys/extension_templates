@@ -3,27 +3,8 @@
     "publisher": "<PUBLISHER>",
     "version": "0.0.1",
     "version_code": 1,
-    "database": [
-        {
-            "variable": "clientUsername",
-            "type": "text",
-            "name": "Kullanıcı Adı",
-            "required": true
-        },
-        {
-            "variable": "clientPassword",
-            "type": "password",
-            "name": "Şifre",
-            "required": true
-        }
-    ],
+    "database": [],
     "widgets": [],
-    "views": [
-        {
-            "name": "index",
-            "scripts": ""
-        }
-    ],
     "language": "php",
     "status": 0,
     "service": "",
