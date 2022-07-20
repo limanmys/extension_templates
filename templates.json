@@ -4,6 +4,7 @@
         "pure-php": "PHP 7.3",
         "oop-php": "PHP 7.3 + OOP",
         "oop-training": "PHP 7.3 + OOP Training",
-        "oop-vue": "PHP OOP + VueJS"
+        "oop-vue": "PHP OOP + VueJS",
+	"vue-typescript": "Vue 3 + Typescript + Vite (hot reload support)"
     }
 }
