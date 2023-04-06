@@ -1,9 +1,9 @@
 {
     "default": "oop-php",
     "templates": {
-        "pure-php": "PHP 7.3",
-        "oop-php": "PHP 7.3 + OOP",
-        "oop-training": "PHP 7.3 + OOP Training",
+        "pure-php": "PHP 8.1",
+        "oop-php": "PHP 8.1 + OOP",
+        "oop-training": "PHP 8.1 + OOP Training",
         "oop-vue": "PHP OOP + VueJS",
 	"vue-typescript": "Vue 3 + Typescript + Vite (hot reload support)"
     }
